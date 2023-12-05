@@ -1,0 +1,1 @@
+import t from"./Example.ce.473ac473.js";import{_ as o,g as c,w as n,o as _,d as a}from"./entry.a66eb9d6.js";const r={};function s(p,l){const e=t;return _(),c(e,{title:"Prop. Example Title"},{default:n(()=>[a("Slot Example Content")]),_:1})}const f=o(r,[["render",s]]);export{f as default};
