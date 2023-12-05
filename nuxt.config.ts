@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  extends: ['@nuxt/ui-pro'],
+  //extends: ['@nuxt/ui-pro'],
   modules: [
     'nuxt-custom-elements',
     '@nuxt/ui',
@@ -28,11 +28,6 @@ export default defineNuxtConfig({
           {
             name: 'CustomElementExample2',
             path: '@/components/Example2.ce.vue',
-            options: {
-              props: {
-                title: 'Prop. Example2 Title'
-              }
-            },
             slotContent: 'Slot Example2 Content'
           }
         ]
