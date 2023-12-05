@@ -10,16 +10,6 @@ We use `nuxt-custom-elements` to generate our web components.
 
 Look at the [nuxt-custom-elements documentation](https://nuxt-custom-elements.grabarzundpartner.dev/) to learn more.
 
-## TODO
-
-* [x] working web component
-* [x] static HTML page using a web component
-* [x] basic CSS styling
-* [x] generate
-* [ ] enable nuxt UI
-* [ ] enable nuxt UI pro
-* [x] deploy static build on github pages
-* [x] local serve for dev
 
 ## local dev
 
@@ -49,3 +39,14 @@ Make sure to install the dependencies:
 # bun
 npx bun install
 ```
+
+## TODO
+
+* [x] working web component
+* [x] static HTML page using a web component
+* [x] basic CSS styling
+* [x] generate
+* [ ] enable nuxt UI
+* [ ] enable nuxt UI pro
+* [x] deploy static build on github pages
+* [x] local serve for dev
