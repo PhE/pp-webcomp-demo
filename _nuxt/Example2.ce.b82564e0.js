@@ -1,0 +1,2 @@
+import{_ as c,r as a,o as s,c as _,d as e,b as t,w as d,n as r}from"./entry.383265da.js";const l=`.custom-element-example2[data-v-df8e8f67]{background:#cd6;font-size:16px;min-width:300px;padding:10px;text-align:center}
+`,m={},p={class:"custom-element-example2"};function u(x,f){const o=r,n=a("UColorModeButton");return s(),_("div",p,[e(" I am a CSS colored div "),t(o,null,{default:d(()=>[e("I am Nuxt UI UButton")]),_:1}),t(n)])}const B=c(m,[["render",u],["styles",[l]],["__scopeId","data-v-df8e8f67"]]);export{B as default};
